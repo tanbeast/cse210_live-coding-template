@@ -1,0 +1,14 @@
+/home/nvparrish/work/BYUI/cse210/repos/master/cse210_live-coding-template/live/sorting/bin/Debug/net8.0/sorting
+/home/nvparrish/work/BYUI/cse210/repos/master/cse210_live-coding-template/live/sorting/bin/Debug/net8.0/sorting.deps.json
+/home/nvparrish/work/BYUI/cse210/repos/master/cse210_live-coding-template/live/sorting/bin/Debug/net8.0/sorting.runtimeconfig.json
+/home/nvparrish/work/BYUI/cse210/repos/master/cse210_live-coding-template/live/sorting/bin/Debug/net8.0/sorting.dll
+/home/nvparrish/work/BYUI/cse210/repos/master/cse210_live-coding-template/live/sorting/bin/Debug/net8.0/sorting.pdb
+/home/nvparrish/work/BYUI/cse210/repos/master/cse210_live-coding-template/live/sorting/obj/Debug/net8.0/sorting.GeneratedMSBuildEditorConfig.editorconfig
+/home/nvparrish/work/BYUI/cse210/repos/master/cse210_live-coding-template/live/sorting/obj/Debug/net8.0/sorting.AssemblyInfoInputs.cache
+/home/nvparrish/work/BYUI/cse210/repos/master/cse210_live-coding-template/live/sorting/obj/Debug/net8.0/sorting.AssemblyInfo.cs
+/home/nvparrish/work/BYUI/cse210/repos/master/cse210_live-coding-template/live/sorting/obj/Debug/net8.0/sorting.csproj.CoreCompileInputs.cache
+/home/nvparrish/work/BYUI/cse210/repos/master/cse210_live-coding-template/live/sorting/obj/Debug/net8.0/sorting.dll
+/home/nvparrish/work/BYUI/cse210/repos/master/cse210_live-coding-template/live/sorting/obj/Debug/net8.0/refint/sorting.dll
+/home/nvparrish/work/BYUI/cse210/repos/master/cse210_live-coding-template/live/sorting/obj/Debug/net8.0/sorting.pdb
+/home/nvparrish/work/BYUI/cse210/repos/master/cse210_live-coding-template/live/sorting/obj/Debug/net8.0/sorting.genruntimeconfig.cache
+/home/nvparrish/work/BYUI/cse210/repos/master/cse210_live-coding-template/live/sorting/obj/Debug/net8.0/ref/sorting.dll

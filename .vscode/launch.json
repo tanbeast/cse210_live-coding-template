@@ -1,0 +1,20 @@
+
+{
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "Live Coding",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-live-coding",
+            "program": "${workspaceFolder}/live/sorting/bin/Debug/net8.0/sorting.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/live/sorting",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+    ]
+}
