@@ -15,6 +15,8 @@ namespace LiveCoding
         public double Modulus() {
             return Math.Sqrt(_real * _real + _imaginary * _imaginary);
         }
+
+        
     }
 
 }

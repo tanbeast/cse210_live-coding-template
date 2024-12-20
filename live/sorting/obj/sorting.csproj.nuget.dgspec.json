@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/nvparrish/work/BYUI/cse210/repos/master/cse210_live-coding-template/live/sorting/sorting.csproj": {}
+    "C:\\Users\\ocrow\\kade\\BYU-I\\cse210_live-coding-template\\live\\sorting\\sorting.csproj": {}
   },
   "projects": {
-    "/home/nvparrish/work/BYUI/cse210/repos/master/cse210_live-coding-template/live/sorting/sorting.csproj": {
+    "C:\\Users\\ocrow\\kade\\BYU-I\\cse210_live-coding-template\\live\\sorting\\sorting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nvparrish/work/BYUI/cse210/repos/master/cse210_live-coding-template/live/sorting/sorting.csproj",
+        "projectUniqueName": "C:\\Users\\ocrow\\kade\\BYU-I\\cse210_live-coding-template\\live\\sorting\\sorting.csproj",
         "projectName": "sorting",
-        "projectPath": "/home/nvparrish/work/BYUI/cse210/repos/master/cse210_live-coding-template/live/sorting/sorting.csproj",
-        "packagesPath": "/home/nvparrish/.nuget/packages/",
-        "outputPath": "/home/nvparrish/work/BYUI/cse210/repos/master/cse210_live-coding-template/live/sorting/obj/",
+        "projectPath": "C:\\Users\\ocrow\\kade\\BYU-I\\cse210_live-coding-template\\live\\sorting\\sorting.csproj",
+        "packagesPath": "C:\\Users\\ocrow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ocrow\\kade\\BYU-I\\cse210_live-coding-template\\live\\sorting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/nvparrish/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ocrow\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

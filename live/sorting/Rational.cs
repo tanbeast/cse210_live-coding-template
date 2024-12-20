@@ -1,11 +1,19 @@
 using System.Diagnostics;
+using System;
+using System.Collections;
 
 namespace LiveCoding
 {
-    public class Rational
-    {
-        int _numerator;
-        int _denominator;
+    class sortThing : IComparer<float>{
+        public int Compare(float x, float y){
+            return x.CompareTo(y);
+        }
+    }
+
+
+    public class Rational : {
+        float _numerator;
+        float _denominator;
 
         public Rational(int numerator, int denominator)
         {
@@ -15,6 +23,10 @@ namespace LiveCoding
                 throw new ArgumentException(String.Format($"{denominator} is not a valid demoninator value."));
             }
             _denominator = denominator;
+        }
+
+        public float ToDecimal(){
+            return _numerator/_denominator;
         }
 
         public override string ToString()
